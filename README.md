@@ -1,3 +1,3 @@
 # UFO-B
 Proyecto UFO B
-![img](D:\users\murielcd\Desktop)
+![img](/users/murielcd/Desktop/logo200x60)
